@@ -1,4 +1,4 @@
-import { Shield, TrendingUp, AlertTriangle } from 'lucide-react';
+import { Shield, AlertTriangle } from 'lucide-react';
 import { ProductHeader } from '@/components/ProductHeader';
 import { DeceptiveReviews } from '@/components/DeceptiveReviews';
 import { DetectedAiImages } from '@/components/DetectedAiImages';

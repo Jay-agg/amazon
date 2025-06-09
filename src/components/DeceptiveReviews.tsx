@@ -72,7 +72,7 @@ export function DeceptiveReviews({ reviews }: DeceptiveReviewsProps) {
             {/* Review Content */}
             <div className="space-y-3">
               <p className="text-sm text-slate-700 leading-relaxed">
-                "{review.content}"
+                &ldquo;{review.content}&rdquo;
               </p>
               
               {/* Detection Reason */}
