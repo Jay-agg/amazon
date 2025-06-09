@@ -1,17 +1,17 @@
 export const productData = {
-  title: "Wireless Bluetooth Headphones Pro Max",
+  title: "SAMSUNG Galaxy Tab S6 Lite 10.4' 64GB WiFi Android Tablet, S Pen Included, Gaming Ready, Long Battery Life, Slim Metal Design, Expandable Storage, US Version, Oxford Gray, Amazon Exclusive (2024)",
   description: "Premium noise-cancelling wireless headphones with advanced audio technology, 30-hour battery life, and crystal-clear sound quality. Perfect for music lovers and professionals.",
-  price: "$299.99",
-  originalPrice: "$399.99",
+  price: "Rs. 17,132",
+  originalPrice: "Rs. 24,123",
   rating: 4.2,
   totalReviews: 1547,
-  image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+  image: "https://m.media-amazon.com/images/I/71-hJGtkLWL._AC_SX466_.jpg",
   fraudScore: 0.73,
   
   deceptiveReviews: [
     {
       id: 1,
-      reviewer: "John D.",
+      reviewer: "Anand",
       rating: 5,
       date: "2024-05-15",
       content: "Amazing headphones! Best purchase ever. The sound quality is incredible and battery lasts forever. Highly recommend to everyone!",
@@ -20,7 +20,7 @@ export const productData = {
     },
     {
       id: 2,
-      reviewer: "Sarah M.",
+      reviewer: "Ravi",
       rating: 5,
       date: "2024-05-14",
       content: "Absolutely perfect! These headphones changed my life. The noise cancellation is the best I've ever experienced. Worth every penny!",
@@ -29,7 +29,7 @@ export const productData = {
     },
     {
       id: 3,
-      reviewer: "Mike R.",
+      reviewer: "Mayank",
       rating: 5,
       date: "2024-05-13",
       content: "Great product! Fast shipping! Amazing seller! Would buy again! Five stars!",
@@ -41,19 +41,19 @@ export const productData = {
   detectedAiImages: [
     {
       id: 1,
-      url: "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=300&h=300&fit=crop",
+      url: "https://m.media-amazon.com/images/I/61d46oYQgdL._AC_UF480,480_SR480,480_.jpg",
       confidenceScore: 0.94,
       detectionReason: "Unrealistic lighting and texture patterns"
     },
     {
       id: 2,
-      url: "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=300&h=300&fit=crop",
+      url: "https://m.media-amazon.com/images/I/51LHmhoU-cL._AC_UF480,480_SR480,480_.jpg",
       confidenceScore: 0.88,
       detectionReason: "Artificial reflections and perfect symmetry"
     },
     {
       id: 3,
-      url: "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=300&h=300&fit=crop",
+      url: "https://m.media-amazon.com/images/I/61Hy3YDM-eL._AC_UF480,480_SR480,480_.jpg",
       confidenceScore: 0.76,
       detectionReason: "Inconsistent shadows and digital artifacts"
     }
@@ -75,21 +75,21 @@ export const productData = {
       {
         id: 1,
         name: "Smart Watch Ultra",
-        price: "$199.99",
+        price: "Rs. 15,999",
         image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&h=200&fit=crop",
         fraudScore: 0.68
       },
       {
         id: 2,
         name: "Gaming Mouse RGB",
-        price: "$89.99",
+        price: "Rs. 4,999",
         image: "https://images.unsplash.com/photo-1527814050087-3793815479db?w=200&h=200&fit=crop",
         fraudScore: 0.82
       },
       {
         id: 3,
         name: "USB-C Hub Pro",
-        price: "$59.99",
+        price: "Rs. 2,999",
         image: "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=200&h=200&fit=crop",
         fraudScore: 0.71
       }
