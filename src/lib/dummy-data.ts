@@ -1,6 +1,6 @@
 export const productData = {
   title: "SAMSUNG Galaxy Tab S6 Lite 10.4' 64GB WiFi Android Tablet, S Pen Included, Gaming Ready, Long Battery Life, Slim Metal Design, Expandable Storage, US Version, Oxford Gray, Amazon Exclusive (2024)",
-  description: "Premium noise-cancelling wireless headphones with advanced audio technology, 30-hour battery life, and crystal-clear sound quality. Perfect for music lovers and professionals.",
+  description: "GALAXY TAB S6 LITE, MORE POWERFUL THAN EVER: With an included S Pen, crystal-clear display and Dolby Atmos surround sound, this reliable tablet is all about fun plus a little work",
   price: "Rs. 17,132",
   originalPrice: "Rs. 24,123",
   rating: 4.2,
@@ -14,8 +14,8 @@ export const productData = {
       reviewer: "Anand",
       rating: 5,
       date: "2024-05-15",
-      content: "Amazing headphones! Best purchase ever. The sound quality is incredible and battery lasts forever. Highly recommend to everyone!",
-      flaggedReason: "Repetitive positive language, lacks specific details",
+      content: "I picked this up for note-taking and light sketching for college, and it’s exceeded expectations. The S Pen is super responsive and doesn’t need charging—major plus!",
+      flaggedReason: "Rview uses generic praise and broad claims without specific model quirks",
       confidenceScore: 0.87
     },
     {
@@ -23,8 +23,8 @@ export const productData = {
       reviewer: "Ravi",
       rating: 5,
       date: "2024-05-14",
-      content: "Absolutely perfect! These headphones changed my life. The noise cancellation is the best I've ever experienced. Worth every penny!",
-      flaggedReason: "Overly emotional language, generic praise",
+      content: "I bought this mostly for mobile gaming and media consumption, and it handles both well. Games like Genshin Impact and Asphalt 9 run smoothly on medium settings. The screen is vibrant, and the speakers are surprisingly decent. ",
+      flaggedReason: "It mentions popular games and common tablet features but lacks detailed insights on actual user experience or battery performance nuances.",
       confidenceScore: 0.79
     },
     {
@@ -32,8 +32,8 @@ export const productData = {
       reviewer: "Mayank",
       rating: 5,
       date: "2024-05-13",
-      content: "Great product! Fast shipping! Amazing seller! Would buy again! Five stars!",
-      flaggedReason: "Excessive exclamation marks, minimal detail",
+      content: "GI was looking for a budget-friendly tablet with stylus support for digital sketching and stumbled upon this. Wow. The pen pressure is great, lag is minimal, and the display is crisp enough for design work. I pair it with apps like Infinite Painter and Canva with zero hiccups.",
+      flaggedReason: "The language is overly polished and promotional with no mention of any minor flaws or real-world trade-offs, which real users often note.",
       confidenceScore: 0.91
     }
   ],
